@@ -1,9 +1,9 @@
-<h1> BMW'ler hakkinda bilgiler </h1>
+<h1> Information about BMW's </h1>
 
-Bu projede almak isteyeceğin araba hakkinda bilgi alabilirsin.
+You can get information about the car you want to buy in this project
 
-<h2> Harici teknolojiler </h2>
+<h2> html,css used </h2>
 
-<h2>Ekran</h2>
+<h2>screen gif</h2>
 
 ![](Ekran.gif)
